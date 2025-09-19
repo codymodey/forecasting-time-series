@@ -24,5 +24,3 @@ The goal is to compare the performance of traditional **ARIMA** models and moder
   - Only included for **EDA demonstration**, not forecasting  
 
 ---
-
-## 🗂 Repository Structure
